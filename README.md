@@ -174,3 +174,14 @@ In this format, placeholders such as `[user_prompt]`, `[adv_string_init]`, and `
 - [Alpaca-LoRA](https://github.com/tloen/alpaca-lora)
 - [Safety Prompts](https://safetyprompts.com/#harmbench)
 - [LlamaGuard](https://github.com/meta-llama/PurpleLlama)
+
+## Cited as
+
+```
+@article{zhang2024safeguard,
+  title={Safeguard is a Double-edged Sword: Denial-of-service Attack on Large Language Models},
+  author={Zhang, Qingzhao and Xiong, Ziyang and Mao, Z Morley},
+  journal={arXiv preprint arXiv:2410.02916},
+  year={2024}
+}
+```
