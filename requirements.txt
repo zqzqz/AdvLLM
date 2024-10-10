@@ -1,0 +1,6 @@
+transformers==4.43.3
+ml_collections
+fschat
+livelossplot
+accelerate
+sentence-transformers
